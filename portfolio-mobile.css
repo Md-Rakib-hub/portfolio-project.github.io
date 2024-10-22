@@ -1,0 +1,135 @@
+[class*="col-"]{
+    width: 100%;
+}
+body{
+    margin: 0px 0px;
+    padding: 0px;
+}
+ 
+
+/* navbar css start from here */
+
+
+.nav-heading {
+    color:  rgb(245, 15, 168);
+}
+
+.navbar{
+    margin: 0px 0px;
+    border-radius: 0%;
+    display: block;
+    text-align: center;
+    padding: 0px;
+    background-color: black;
+    position: static;
+    margin: 0%;
+    width: auto;
+}
+.nav-manu{
+    margin: 0px;
+    padding-right: 0px;
+}
+.nav-manu ul{
+    display: block;
+    margin-right: 40px;
+
+}
+    
+.nav-manu ul li a{
+    background-color: rgb(245, 15, 168);
+    padding: 5px 80px;
+    border-radius: 10px;
+   
+}
+.nav-manu ul li:hover{
+    background-color: rgb(245, 15, 168);
+    border-radius: 15px;
+    transform: scale(1.05);
+
+
+}
+.nav-heading{
+    text-align: center;
+    color:  rgb(245, 15, 168);
+
+}
+
+
+.nav-logo{
+    margin: 0px;
+}
+
+    .profile{
+        display: block;
+        margin:-150px;
+    }
+
+/* navbar css end here */
+
+
+/* about me start  */
+
+.about-me{
+    margin-top: 200px;
+  
+  }
+
+
+
+/* about me end */
+.profile-left{
+    margin-right: 0px;
+    
+}
+.profile-right{
+    margin-right: 0px;
+}
+.profile{
+    margin-right: 0px;
+    margin-left: 20px;
+}
+
+
+
+ /* skill design start from here   */
+ .educational-skills{
+    display: block;
+    /* flex-direction: column; */
+    width: 70%;
+
+ }
+ .education h2{
+    width: 300px;
+
+ }
+ .skills h2{
+    width: 300px;
+ }
+ 
+  /* skill design start from here   */
+
+
+  /* contact design start from here  */
+.contact{
+    display: block;
+}
+.social-media{
+    margin: 0%;
+    
+}
+.div{
+    text-align: center;
+
+}
+h4{
+    visibility: hidden;
+}
+  
+
+
+
+
+
+
+
+  /* contact design end here  */
